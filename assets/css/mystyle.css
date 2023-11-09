@@ -1,0 +1,13 @@
+.anyClass {
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn {
+    box-shadow: none !important;
+}
